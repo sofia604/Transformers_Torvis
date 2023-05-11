@@ -1,0 +1,5 @@
+matplotlib==3.5.3
+numpy==1.23.2
+pandas==1.4.3
+seaborn==0.11.2
+tensorflow_gpu==2.9.0
